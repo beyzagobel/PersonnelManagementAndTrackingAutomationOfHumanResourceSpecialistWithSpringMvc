@@ -1,5 +1,8 @@
 ## Personnel Management and Tracking Automation of Human Resources Specialist
 
+Bir İşletmedeli İnsan Kaynakları Uzmanı'nın Personel Yönetim Otomasyonudur. 
+
+
 ### Entity Diagram
 
 ![image](https://user-images.githubusercontent.com/78444522/201446777-6af73beb-38bc-40ce-8264-615be9ba9fe9.png)
